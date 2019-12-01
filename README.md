@@ -1,2 +1,2 @@
 # fullstackopen
-JS study
+JavaScript studies from https://fullstackopen.com/
